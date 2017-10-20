@@ -8,7 +8,7 @@
 
 # production
 /storybook-static
-/lib
+#/lib
 
 # misc
 .DS_Store
